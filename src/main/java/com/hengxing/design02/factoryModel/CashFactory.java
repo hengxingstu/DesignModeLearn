@@ -5,6 +5,7 @@ import com.hengxing.design02.factoryModel.impl.CashRebate;
 import com.hengxing.design02.factoryModel.impl.CashRefund;
 
 /**
+ * 工厂类
  * @author hengxing
  * @version 1.0
  * @project DesignModeLearn
